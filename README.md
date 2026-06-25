@@ -20,11 +20,8 @@ AWS | DevOps | Docker | Kubernetes | Terraform | Linux | Git & GitHub
 
 ### 🛠️ Technologies
 
-☁️ AWS
-
-🐳 Docker          ☸️ Kubernetes          🏗 Terraform          🔄 GitHub Actions          🔧 Jenkins          
-
-📈 Prometheus          📊 Grafana          🐧 Linux
+☁️ AWS          🐳 Docker          ☸️ Kubernetes          🏗 Terraform          🔄 GitHub Actions         
+🔧 Jenkins          📈 Prometheus          📊 Grafana          🐧 Linux
 
 ---
 
